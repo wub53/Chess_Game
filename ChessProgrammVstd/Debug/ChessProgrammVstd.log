@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  bishop.cpp
+  Chessboard.cpp
+  ChessProgrammVstd.cpp
+  GameController.cpp
+  king.cpp
+  knight.cpp
+  pawn.cpp
+  piece.cpp
+  queen.cpp
+  rook.cpp
+  rules.cpp
+  Generating Code...
+  ChessProgrammVstd.vcxproj -> D:\ChessProgrammVstd\Debug\ChessProgrammVstd.exe
